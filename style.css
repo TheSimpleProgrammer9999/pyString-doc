@@ -1,0 +1,20 @@
+h1 {
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 34px;
+    color: rgb(32, 32, 187);
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 28px;
+}
+
+body {
+    background-color: rgb(155, 155, 160);
+    margin-left: 30px;
+}
